@@ -56,8 +56,8 @@ void masterLightsOff();
 void diningLightsOn();
 void diningLightsOff();
 
-const char *ssid = "Avery's iPhone";
-const char *password = "+=jaxaflack842?><";
+const char *ssid = "---------";
+const char *password = "-------";
 boolean wifiConnected = false;
 UpnpBroadcastResponder upnpBroadcastResponder;
 Switch *bedroom = NULL;
